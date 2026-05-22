@@ -14,7 +14,7 @@ Field Information (json):
       game_version     (string)  — e.g. "neoLegacy", "Revelations", "PS3", "Xbox 360", etc.
       github_url       (string)  — MUST be https://github.com/user/repo
 
-How to add a server entry into `packs.json`
+How to add a pack entry into `packs.json`
 
 You can paste this template snippet after the newest entry, make sure the last entry before yours ends with `},` and not only `}`, else there will be a Syntax error.
 ```json
