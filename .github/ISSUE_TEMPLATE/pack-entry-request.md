@@ -14,7 +14,7 @@ What is the name of your pack?
 A description for your pack (max 200 letters):
 >
 
-What is the type of pack you are requesting? (DLC; Mash-Up, Texture, Skin, ...)
+What is the type of pack you are requesting? (DLC; Mash-Up, Texture, ...)
 > 
 
 What game version is your pack made for? (All; neoLegacy, Revelations, ...)
