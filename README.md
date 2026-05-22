@@ -2,12 +2,12 @@
 To add a pack/dlc to the websites entry, you may do a pull request where you add your server icon and the entry in the json.
 Alternatively you can also open a issue, and add your **1:1** ratio (Square) server-icon, and the required metadata for your server.
 
-Allowed are: `Texture Packs, Mash-Up Packs, DLC, Skin Packs and Worlds`
+Allowed are: `Texture Packs, Mash-Up Packs, DLC == Skin Packs, ... and Worlds`
 
 Field Information (json):
 
       pack_name        (string)  — Display name
-      pack_type        (string)  — "Texture" | "Mash-Up" | "DLC" | "Skin Pack" | "Other"
+      pack_type        (string)  — "Texture" | "Mash-Up" | "DLC" | "Other"
       pack_author      (string)  — Creator username
       pack_description (string)  — Short description shown on the card
       pack_icon        (string)  — Path relative to repo root, or full URL
