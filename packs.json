@@ -1,38 +1,11 @@
     [
       {
-        "pack_name": "Plastic Texture Pack",
+        "pack_name": "Updated City Texture Pack",
         "pack_type": "Texture",
-        "pack_author": "Notch",
-        "pack_description": "A colorful plastic-style retexture for LCE.",
-        "pack_icon": "/icons/plastic.png",
-        "game_version": "NeoLegacy",
-        "github_url": "https://github.com/bytebukkit/plastic-pack"
-      },
-      {
-        "pack_name": "City Texture Pack",
-        "pack_type": "Mash-Up",
-        "pack_author": "4JStudios",
-        "pack_description": "Full city mash-up with custom terrain and skins.",
-        "pack_icon": "/icons/city.png",
-        "game_version": "XBLA",
-        "github_url": "https://github.com/bytebukkit/city-mashup"
-      },
-      {
-        "pack_name": "Mini Game Heroes",
-        "pack_type": "DLC",
-        "pack_author": "ByteBukkit Team",
-        "pack_description": "Extra heroes for the Mini Game mode.",
-        "pack_icon": "/icons/heroes.png",
-        "game_version": "NeoLegacy",
-        "github_url": "https://github.com/bytebukkit/minigame-heroes"
-      },
-      {
-        "pack_name": "Community Skin Pack",
-        "pack_type": "Skin Pack",
-        "pack_author": "Community",
-        "pack_description": "Fan-made skin pack with 40+ skins.",
-        "pack_icon": "/icons/skins.png",
-        "game_version": "PS3",
-        "github_url": "https://github.com/bytebukkit/community-skins"
+        "pack_author": "Byte_HD",
+        "pack_description": "A updated version of the City Texture Pack for neoLegacy.",
+        "pack_icon": "/icons/city-updated.png",
+        "game_version": "neoLegacy",
+        "github_url": "https://github.com/bytebukkit/updated-city-pack"
       }
     ]
